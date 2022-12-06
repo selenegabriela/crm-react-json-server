@@ -1,43 +1,43 @@
 {
   "clientes": [
     {
-      "nombre": "diana cristina",
-      "empresa": "JA asociados ",
+      "name": "diana cristina",
+      "company": "JA asociados ",
       "email": "leonelpolanco2913@gmail.com",
       "telefono": "3122215315",
-      "notas": "Construcciones ",
+      "notes": "Construcciones ",
       "id": 1
     },
     {
-      "nombre": "diana cristina",
-      "empresa": "JA asociados ",
+      "name": "diana cristina",
+      "company": "JA asociados ",
       "email": "leonelpolanco2913@gmail.com",
-      "telefono": "3122215315",
-      "notas": "Construcciones ",
+      "phone": "3122215315",
+      "notes": "Construcciones ",
       "id": 2
     },
     {
-      "nombre": "Leonel",
-      "empresa": "LeoINC",
+      "name": "Leonel",
+      "company": "LeoINC",
       "email": "leoenl@leo.com",
-      "telefono": "3122222222",
-      "notas": "sitfware",
+      "phone": "3122222222",
+      "notes": "sitfware",
       "id": 3
     },
     {
-      "nombre": "Camilo",
-      "empresa": "CAMKING",
+      "name": "Camilo",
+      "company": "CAMKING",
       "email": "correo@correo.com",
-      "telefono": "3254111",
-      "notas": "Nada de nada",
+      "phone": "3254111",
+      "notes": "Nada de nada",
       "id": 4
     },
     {
-      "nombre": "diana cristina",
-      "empresa": "LeoINCccc",
+      "name": "diana cristina",
+      "company": "LeoINCccc",
       "email": "correo@correo.com",
-      "telefono": "3010101",
-      "notas": "",
+      "phone": "3010101",
+      "notes": "",
       "id": 5
     }
   ]
