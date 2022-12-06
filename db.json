@@ -1,43 +1,43 @@
 {
   "clientes": [
     {
-      "name": "diana cristina",
-      "company": "JA asociados ",
-      "email": "leonelpolanco2913@gmail.com",
+      "name": "Pelusa",
+      "company": "Perros Hermanos",
+      "email": "peusa@gmail.com",
       "telefono": "3122215315",
       "notes": "Construcciones ",
       "id": 1
     },
     {
-      "name": "diana cristina",
-      "company": "JA asociados ",
-      "email": "leonelpolanco2913@gmail.com",
+      "name": "Panqué",
+      "company": "Perros Hermanos",
+      "email": "pank@gmail.com",
       "phone": "3122215315",
       "notes": "Construcciones ",
       "id": 2
     },
     {
-      "name": "Leonel",
-      "company": "LeoINC",
-      "email": "leoenl@leo.com",
+      "name": "Mazapán",
+      "company": "Perros Hermanos",
+      "email": "mazap-ant@leo.com",
       "phone": "3122222222",
-      "notes": "sitfware",
+      "notes": "sotfware",
       "id": 3
     },
     {
-      "name": "Camilo",
-      "company": "CAMKING",
-      "email": "correo@correo.com",
+      "name": "Melenas",
+      "company": "Perros Hermanos",
+      "email": "mele@correo.com",
       "phone": "3254111",
-      "notes": "Nada de nada",
+      "notes": "Software",
       "id": 4
     },
     {
-      "name": "diana cristina",
-      "company": "LeoINCccc",
-      "email": "correo@correo.com",
+      "name": "Simba",
+      "company": "Perros Hermanos",
+      "email": "chims@correo.com",
       "phone": "3010101",
-      "notes": "",
+      "notes": "Software",
       "id": 5
     }
   ]
